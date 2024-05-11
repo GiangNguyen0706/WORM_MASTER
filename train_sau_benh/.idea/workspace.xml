@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b413589b-d1bc-410a-92be-5676da98ec57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/training/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/.idea/training.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/models/mymodel/pipeline_file.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/models/mymodel/ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000027.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000032.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000033.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000039.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000042.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000061.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000063.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000068.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000121.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000129.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000187.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000241.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000243.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000256.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000272.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000332.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000333.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000363.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000364.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000392.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000423.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000452.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000464.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000480.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000491.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000504.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000515.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000528.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000529.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000549.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000559.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000572.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000584.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000629.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000636.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000645.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000648.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000661.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000663.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000664.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000676.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000713.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000720.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000727.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000733.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000738.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000762.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000768.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000783.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000793.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000799.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000804.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000807.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000822.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000830.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000836.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000837.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000847.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000862.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000876.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000904.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_000999.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001073.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001154.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001185.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001225.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001239.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001284.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001288.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001289.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001299.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001340.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001377.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001397.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001408.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/detection-results/2007_001416.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000027.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000032.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000033.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000039.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000042.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000061.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000063.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000068.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000121.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000129.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000187.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000241.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000243.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000250.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000256.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000272.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000332.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000333.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000363.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000364.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000392.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000423.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000452.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000464.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000480.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000491.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000504.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000515.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000528.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000529.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000549.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000559.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000572.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000584.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000629.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000636.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000645.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000648.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000661.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000663.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000664.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000676.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000713.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000720.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000727.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000733.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000738.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000762.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000768.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000783.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000793.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000799.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000804.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000807.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000822.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000830.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000836.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000837.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000847.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000862.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000876.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000904.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_000999.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001073.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001154.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001175.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001185.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001225.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001239.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001284.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001288.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001289.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001299.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001340.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001377.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001397.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001408.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/ground-truth/2007_001416.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000027.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000039.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000061.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000063.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000068.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000121.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000129.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000170.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000187.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000243.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000272.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000323.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000346.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000363.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000364.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000392.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000423.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000452.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000464.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000480.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000491.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000504.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000515.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000528.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000529.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000559.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000572.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000584.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000629.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000636.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000645.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000648.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000661.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000663.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000664.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000676.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000713.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000727.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000733.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000738.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000762.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000783.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000793.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000799.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000804.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000807.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000822.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000830.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000836.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000837.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000847.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000862.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000876.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000904.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_000999.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001073.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001284.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001288.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001289.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001299.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001321.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001340.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001377.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001397.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001408.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/mAP/input/images-optional/2007_001416.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/models/research/object_detection/export_tflite_graph_tf2.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/models/research/object_detection/export_tflite_graph_tf2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/models/research/object_detection/model_main_tf2.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/models/research/object_detection/model_main_tf2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/training" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2egirv9T52uLmzeFiYg4FNwsUAp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.test_model.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WORMMASTER/train_sau_benh/training/.venv&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="test_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="train_sau_benh" />
+      <option name="ENV_FILES" value="$PROJECT_DIR$/training/venv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training/test_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b413589b-d1bc-410a-92be-5676da98ec57" name="Changes" comment="" />
+      <created>1712332826853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712332826853</updated>
+    </task>
+    <servers />
+  </component>
+</project>

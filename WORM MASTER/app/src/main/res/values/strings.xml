@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WORM MASTER</string>
+    <string name="capture_imgtome">capture_img</string>
+    <string name="imgtocontome">imgtocon</string>
+</resources>

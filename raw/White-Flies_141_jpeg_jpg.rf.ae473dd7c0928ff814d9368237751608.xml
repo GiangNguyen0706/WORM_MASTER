@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>White-Flies_141_jpeg_jpg.rf.ae473dd7c0928ff814d9368237751608.jpg</filename>
+	<path>White-Flies_141_jpeg_jpg.rf.ae473dd7c0928ff814d9368237751608.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Whiteflies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>197</ymin>
+			<xmax>497</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

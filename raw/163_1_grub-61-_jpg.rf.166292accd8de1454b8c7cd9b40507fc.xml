@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>163_1_grub-61-_jpg.rf.166292accd8de1454b8c7cd9b40507fc.jpg</filename>
+	<path>163_1_grub-61-_jpg.rf.166292accd8de1454b8c7cd9b40507fc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>army worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>179</ymin>
+			<xmax>586</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

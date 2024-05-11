@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>54_1_Black_Cutworm-62-_jpg.rf.c605b716560dc5c91598148c1594c785.jpg</filename>
+	<path>54_1_Black_Cutworm-62-_jpg.rf.c605b716560dc5c91598148c1594c785.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black cutworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>128</ymin>
+			<xmax>507</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

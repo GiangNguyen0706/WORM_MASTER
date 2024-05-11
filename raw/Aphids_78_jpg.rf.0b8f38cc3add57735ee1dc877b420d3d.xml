@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>Aphids_78_jpg.rf.0b8f38cc3add57735ee1dc877b420d3d.jpg</filename>
+	<path>Aphids_78_jpg.rf.0b8f38cc3add57735ee1dc877b420d3d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aphids</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>223</ymin>
+			<xmax>432</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

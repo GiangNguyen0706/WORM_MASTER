@@ -1,0 +1,38 @@
+<annotation>
+	<folder />
+	<filename>IP024000582_jpg.rf.63b2b389b41405324df891cae4e725c4.jpg</filename>
+	<path>IP024000582_jpg.rf.63b2b389b41405324df891cae4e725c4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aphids</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>102</ymin>
+			<xmax>293</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aphids</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>199</ymin>
+			<xmax>407</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

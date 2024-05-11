@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>344_0_grub-117-_jpg.rf.ec8604f24b5090fa1645a06d0febd6a1.jpg</filename>
+	<path>344_0_grub-117-_jpg.rf.ec8604f24b5090fa1645a06d0febd6a1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grub</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>200</ymin>
+			<xmax>384</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

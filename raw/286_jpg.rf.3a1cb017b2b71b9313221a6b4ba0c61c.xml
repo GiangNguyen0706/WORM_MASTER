@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>286_jpg.rf.3a1cb017b2b71b9313221a6b4ba0c61c.jpg</filename>
+	<path>286_jpg.rf.3a1cb017b2b71b9313221a6b4ba0c61c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>locust</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>63</ymin>
+			<xmax>265</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

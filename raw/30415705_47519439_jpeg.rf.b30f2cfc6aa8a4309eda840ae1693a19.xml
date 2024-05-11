@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>30415705_47519439_jpeg.rf.b30f2cfc6aa8a4309eda840ae1693a19.jpg</filename>
+	<path>30415705_47519439_jpeg.rf.b30f2cfc6aa8a4309eda840ae1693a19.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>910</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ladybug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>454</ymin>
+			<xmax>686</xmax>
+			<ymax>691</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>Thrips_117_jpeg-Copy_jpg.rf.9bcffd6139a75581f8e905039d34a024.jpg</filename>
+	<path>Thrips_117_jpeg-Copy_jpg.rf.9bcffd6139a75581f8e905039d34a024.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>145</ymin>
+			<xmax>610</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

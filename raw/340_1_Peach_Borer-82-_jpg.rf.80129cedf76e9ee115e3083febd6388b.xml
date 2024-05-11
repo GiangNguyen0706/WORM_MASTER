@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>340_1_Peach_Borer-82-_jpg.rf.80129cedf76e9ee115e3083febd6388b.jpg</filename>
+	<path>340_1_Peach_Borer-82-_jpg.rf.80129cedf76e9ee115e3083febd6388b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peach borer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>3</ymin>
+			<xmax>501</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

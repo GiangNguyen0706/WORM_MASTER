@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="57dp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="196dp"
+            app:srcCompat="@drawable/logo" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="37dp" />
+
+        <TextView
+            android:id="@+id/textView_debug"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:text="WORM MASTER"
+            android:textAlignment="center"
+            android:textColor="#079937"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            tools:layout_conversion_absoluteHeight="40dp"
+            tools:layout_conversion_absoluteWidth="411dp"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="296dp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="36dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="452dp"
+        android:background="#079937"
+        android:orientation="vertical">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="64dp" />
+
+        <Button
+            android:id="@+id/camera_button"
+            android:layout_width="310dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:background="#FFFFFF"
+            android:text="PHÁT HIỆN TRỰC TIẾP"
+            android:textAlignment="center"
+            android:textColor="#079937"
+            android:textSize="24sp"
+            app:iconTint="#038BC34A"
+            tools:layout_conversion_absoluteHeight="50dp"
+            tools:layout_conversion_absoluteWidth="107dp"
+            tools:layout_editor_absoluteX="152dp"
+            tools:layout_editor_absoluteY="336dp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="35dp" />
+
+        <Button
+            android:id="@+id/research_button"
+            android:layout_width="310dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:background="#FFFFFF"
+            android:text="MỞ CAMERA"
+            android:textColor="#079937"
+            android:textSize="24sp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="35dp" />
+
+        <Button
+            android:id="@+id/storage_predict"
+            android:layout_width="310dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:background="#FFFFFF"
+            android:text="MỞ THƯ VIỆN"
+            android:textColor="#079937"
+            android:textSize="24sp"
+            tools:layout_conversion_absoluteHeight="50dp"
+            tools:layout_conversion_absoluteWidth="103dp"
+            tools:layout_editor_absoluteX="154dp"
+            tools:layout_editor_absoluteY="386dp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

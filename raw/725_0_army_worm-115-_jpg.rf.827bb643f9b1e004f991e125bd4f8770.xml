@@ -1,0 +1,26 @@
+<annotation>
+	<folder />
+	<filename>725_0_army_worm-115-_jpg.rf.827bb643f9b1e004f991e125bd4f8770.jpg</filename>
+	<path>725_0_army_worm-115-_jpg.rf.827bb643f9b1e004f991e125bd4f8770.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>army worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>117</ymin>
+			<xmax>396</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>
